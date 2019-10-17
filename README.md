@@ -1,2 +1,2 @@
-# reddit-api
+# reddit-interface
 Testing reddit api
